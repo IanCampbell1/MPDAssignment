@@ -1,0 +1,21 @@
+<!--  Ian Campbell 200507045  -->
+
+<resources>
+    <string name="app_name">MPD Assignment</string>
+    <string name="glasgow_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2648579</string>
+    <string name="london_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2643743</string>
+    <string name="newyork_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/5128581</string>
+    <string name="oman_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/287286</string>
+    <string name="mauritius_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/934154</string>
+    <string name="bangladesh_url">https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/1185241</string>
+    <string name="weather_condition_image">Graphical representation of the weather</string>
+    <string name="invalid_url">Invalid url</string>
+    <string name="high_temp">High: %s</string>
+    <string name="low_temp">Low: %s</string>
+    <string name="Day_Description">%1$s: %2$s</string>
+    <string name="bbc">Contains British Broadcasting Corporation data</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>

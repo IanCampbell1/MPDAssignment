@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Ian Campbell 200507045  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:background="@color/colorAccent"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="72dp"
+        android:src="@mipmap/ic_gculogo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="Please select the GCU campus you wish to check the weather at"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        />
+
+</LinearLayout>
